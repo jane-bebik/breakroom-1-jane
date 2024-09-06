@@ -16,7 +16,7 @@ public class Main {
         double num2 = scanner.nextDouble();
 
         //sum code
-        double result = num1 - num2;
+        double result = num1 / num2;
 
         //result
         System.out.println("The result of adding "  + result);
